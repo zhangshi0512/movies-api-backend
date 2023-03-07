@@ -1,3 +1,9 @@
+# This project is a full-stack web app allows user to browser for movie trailers and leave review comments.
+
+[moviefeeds-online](https://moviefeeds-online.netlify.app/)
+
+![Movie DB](https://user-images.githubusercontent.com/100053535/223374925-ece13457-8440-46fd-a002-8a8b2e7b52a5.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
